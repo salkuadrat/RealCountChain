@@ -1,2 +1,2 @@
 # RealCountChain
-RealCount with leveraging Blockchain Technology
+Voting RealCount using Blockchain Technology
